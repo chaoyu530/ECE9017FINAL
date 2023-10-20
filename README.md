@@ -1,2 +1,1 @@
-# ECE9017FINAL
-Advanced Databases Project: AdventureWorks Analysis
+# ECE9017 Advanced Databases Project: AdventureWorks Analysis
